@@ -1,1 +1,4 @@
-console.log('Ejercicio 1');
+
+export function prueba(): string {
+  return "Hola mundo";
+}
