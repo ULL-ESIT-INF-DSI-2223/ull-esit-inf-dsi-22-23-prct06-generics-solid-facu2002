@@ -1,0 +1,43 @@
+{
+  "name": "ull-esit-inf-dsi-22-23-prct06-generics-solid-facu2002",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "doc": "typedoc",
+    "coverage": "nyc npm test",
+    "start1": "tsc-watch --onSuccess \"node dist/ejercicio-1/ejercicio-1.js\"",
+    "start2": "tsc-watch --onSuccess \"node dist/ejercicio-2/ejercicio-2.js\"",
+    "start3": "tsc-watch --onSuccess \"node dist/ejercicio-3/ejercicio-3.js\"",
+    "start4": "tsc-watch --onSuccess \"node dist/modificacion/mod1.js\"",
+    "start5": "tsc-watch --onSuccess \"node dist/modificacion/mod2.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-facu2002.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-facu2002/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-facu2002#readme",
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "@typescript-eslint/parser": "^5.54.0",
+    "chai": "^4.3.7",
+    "coveralls": "^3.1.1",
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.6.0",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
+    "prettier": "^2.8.4",
+    "ts-node": "^10.9.1",
+    "tsc-watch": "^6.0.0",
+    "typedoc": "^0.23.26"
+  }
+}
