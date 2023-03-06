@@ -3,8 +3,7 @@
     "./src/ejercicio-1/ejercicio1.ts",
     "./src/ejercicio-2/ejercicio2.ts",
     "./src/ejercicio-3/ejercicio3.ts",
-    "./src/modificacion/mod1.ts",
-    "./src/modificacion/mod2.ts"
+    "./src/modificacion/ArithmeticableCollection.ts"
   ],
   "out": "./docs"
 }

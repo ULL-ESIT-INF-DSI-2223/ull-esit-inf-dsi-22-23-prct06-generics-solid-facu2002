@@ -10,8 +10,7 @@
     "start1": "tsc-watch --onSuccess \"node dist/ejercicio-1/ejercicio-1.js\"",
     "start2": "tsc-watch --onSuccess \"node dist/ejercicio-2/ejercicio-2.js\"",
     "start3": "tsc-watch --onSuccess \"node dist/ejercicio-3/ejercicio-3.js\"",
-    "start4": "tsc-watch --onSuccess \"node dist/modificacion/mod1.js\"",
-    "start5": "tsc-watch --onSuccess \"node dist/modificacion/mod2.js\""
+    "start4": "tsc-watch --onSuccess \"node dist/modificacion/ArithmeticableCollection.js\""
   },
   "repository": {
     "type": "git",
