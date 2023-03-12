@@ -1,6 +1,10 @@
 # Práctica 6 : Clases e interfaces genéricas
 
-## Facundo José García Gallo
+# Facundo José García Gallo
+
+## Cubrimiento
+
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-facu2002/badge.svg?branch=master)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-facu2002?branch=master)
 
 ### Índice
 
